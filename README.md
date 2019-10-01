@@ -1,3 +1,8 @@
+## Changes in this fork
+
+- fix Electron 5.x compatibility for `rendererRequireDirect` function
+
+
 # DEPRECATED: electron-remote: an asynchronous 'remote', and more
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
