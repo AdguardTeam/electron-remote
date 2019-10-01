@@ -178,3 +178,7 @@ Another method that is included is `downloadFileOrUrl`, which lets you download 
  */
 function downloadFileOrUrl(pathOrUrl, target)
 ```
+
+## Changes in this fork
+
+- fix Electron 5.x compatibility for `rendererRequireDirect` function
